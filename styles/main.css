@@ -50,7 +50,7 @@ body {
     text-align: center;
     color: #181D27;
     font-size: 40px;
-    -webkit-animation: 600;
+    font-weight: 600;
 }
 #titleDescriptionDiv {
     max-width: 1216px;
@@ -425,7 +425,6 @@ body {
     height: 18px;
     vertical-align: middle;
 }
-ssssss
 #thirdCheckItemsForReportsDiv {
     max-width: 544px;
     height: 28px;
