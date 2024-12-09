@@ -1,0 +1,459 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+#mainDiv {
+    max-width: 1604px;
+    width: 100%;
+    height: 2344px;
+    box-sizing: border-box;
+    margin: 64px 158px 268px 158px;
+    padding: 96px;
+    background-color: #E4EBFF;
+}
+#secondMainDiv {
+    max-width: 1280px;
+    width: 100%;
+    height: 2152px;
+    margin: 0 auto;
+    background-color: white;
+    box-sizing: border-box;
+    padding-top: 96px;
+    padding-bottom: 96px;
+}
+#mainTitleDiv {
+    max-width: 1280px;
+    width: 100%;
+    height: 136px;
+    box-sizing: border-box;
+    padding: 0 32px 0 32px;
+}
+#headingDiv {
+    max-width: 929px;
+    width: 100%;
+    height: 80px;
+    margin: 0 auto;
+}
+#featuresDiv {
+    max-width: 929px;
+    width: 100%;
+    height: 24px;
+    font-weight: 600;
+    color: #6941C6;
+    text-align: center;
+    margin-bottom: 12px;
+}
+#projectTitleDiv {
+    max-width: 929px;
+    width: 100%;
+    height: 44px;
+    text-align: center;
+    color: #181D27;
+    font-size: 40px;
+    -webkit-animation: 600;
+}
+#titleDescriptionDiv {
+    max-width: 1216px;
+    width: 100%;
+    height: 24px;
+    font-size: 20px;
+    color: #535862;
+    text-align: center;
+    margin-top: 32px;
+}
+#firstMainInfoDiv {
+    max-width: 1280px;
+    height: 512px;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0 32px 0 32px;
+    margin: 96px 0 96px 0;
+}
+#firstImageNeighborDiv {
+    display: inline-block;
+    max-width: 560px;
+    height: 334px;
+    width: 100%;
+    vertical-align: middle;
+}
+#messageIcon {
+    background-color: #F4EBFF;
+    padding: 12px;
+    border-radius: 100%;
+    margin-bottom: 20px;
+}
+#firstContentDiv {
+    max-width: 560px;
+    height: 110px;
+    width: 100%;
+}
+#teamInboxesDiv {
+    max-width: 560px;
+    width: 100%;
+    height: 38px;
+    font-size: 30px;
+    font-weight: 600;
+}
+#inboxesDescriptionDiv {
+    max-width: 560px;
+    width: 100%;
+    height: 56px;
+    font-size: 18px;
+    color: #535862;
+    margin-top: 16px;
+}
+#firstCheckItemsDiv {
+    max-width: 560px;
+    width: 100%;
+    height: 124px;
+    padding-left: 16px;
+    margin-top: 32px;
+    box-sizing: border-box;
+}
+#firstCheckItemsForBoxesDiv {
+    max-width: 544px;
+    height: 28px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+#leveragetextDiv {
+    max-width: 504px;
+    width: 100%;
+    height: 28px;
+    display: inline-block;
+    font-size: 18px;
+    color: #535862;
+    vertical-align: middle;
+}
+#firstCheckItemsForBoxesDiv img {
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+}
+#leverageParagh {
+    display: inline-block;
+    margin: 0;
+    height: 18px;
+    vertical-align: middle;
+}
+#secondCheckItemsForBoxesDiv {
+    max-width: 544px;
+    height: 28px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+#secondCheckItemsForBoxesDiv img {
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+}
+#alwaysTextDiv {
+    max-width: 504px;
+    width: 100%;
+    height: 28px;
+    display: inline-block;
+    font-size: 18px;
+    color: #535862;
+    vertical-align: middle;
+}
+#alwaysParagh {
+    display: inline-block;
+    margin: 0;
+    height: 18px;
+    vertical-align: middle;
+}
+#thirdCheckItemsForBoxesDiv {
+    max-width: 544px;
+    height: 28px;
+    width: 100%;
+}
+#thirdCheckItemsForBoxesDiv img {
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+}
+#automateTextDiv {
+    max-width: 504px;
+    width: 100%;
+    height: 28px;
+    display: inline-block;
+    font-size: 18px;
+    color: #535862;
+    vertical-align: middle;
+}
+#automateParagh {
+    display: inline-block;
+    margin: 0;
+    height: 18px;
+    vertical-align: middle;
+}
+#firstDashboardImage {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 5px -165px 5px 97px;
+}
+#secondMainInfoDiv {
+    max-width: 1280px;
+    height: 512px;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0 32px 0 32px;
+    margin: 96px 0 96px 0;
+}
+#secondDashboardImage {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 5px 0 5px 0;
+}
+#secondImageNeighborDiv {
+    display: inline-block;
+    max-width: 560px;
+    height: 334px;
+    width: 100%;
+    vertical-align: middle;
+    margin-left: 63px;
+}
+#zapIcon {
+    background-color: #F4EBFF;
+    padding: 12px;
+    border-radius: 100%;
+    margin-bottom: 20px;
+}
+#secondContentDiv {
+    max-width: 560px;
+    height: 110px;
+    width: 100%;
+}
+#deliverDiv {
+    max-width: 560px;
+    width: 100%;
+    height: 38px;
+    font-size: 30px;
+    font-weight: 600;
+}
+#deliverDescriptionDiv {
+    max-width: 560px;
+    width: 100%;
+    height: 56px;
+    font-size: 18px;
+    color: #535862;
+    margin-top: 16px;
+}
+#secondCheckItemsDiv {
+    max-width: 560px;
+    width: 100%;
+    height: 124px;
+    padding-left: 16px;
+    margin-top: 32px;
+    box-sizing: border-box;   
+}
+#firstCheckItemsForDeliverDiv {
+    max-width: 544px;
+    height: 28px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+#firstCheckItemsForDeliverDiv img {
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+}
+#keepTextDiv {
+    max-width: 504px;
+    width: 100%;
+    height: 28px;
+    display: inline-block;
+    font-size: 18px;
+    color: #535862;
+    vertical-align: middle;
+}
+#keepParagh {
+    display: inline-block;
+    margin: 0;
+    height: 18px;
+    vertical-align: middle;
+}
+#secondCheckItemsForDeliverDiv {
+    max-width: 544px;
+    height: 28px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+#secondCheckItemsForDeliverDiv img {
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+}
+#embedtextDiv {
+    max-width: 504px;
+    width: 100%;
+    height: 28px;
+    display: inline-block;
+    font-size: 18px;
+    color: #535862;
+    vertical-align: middle;
+}
+#embedParagh {
+    display: inline-block;
+    margin: 0;
+    height: 18px;
+    vertical-align: middle;
+}
+#thirdCheckItemsForDeliverDiv {
+    max-width: 544px;
+    height: 28px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+#thirdCheckItemsForDeliverDiv img {
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+}
+#customersTextDiv {
+    max-width: 504px;
+    width: 100%;
+    height: 28px;
+    display: inline-block;
+    font-size: 18px;
+    color: #535862;
+    vertical-align: middle;
+}
+#customersParagh {
+    display: inline-block;
+    margin: 0;
+    height: 18px;
+    vertical-align: middle;
+}
+#thirdMainInfoDiv {
+    max-width: 1280px;
+    height: 512px;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0 32px 0 32px;
+}
+#thirdImageNeighborDiv {
+    display: inline-block;
+    max-width: 560px;
+    height: 334px;
+    width: 100%;
+    vertical-align: middle;
+}
+#chartIcon {
+    background-color: #F4EBFF;
+    padding: 12px;
+    border-radius: 100%;
+    margin-bottom: 20px;
+}
+#thirdContentDiv {
+    max-width: 560px;
+    height: 110px;
+    width: 100%;
+}
+#reportsDiv {
+    max-width: 560px;
+    width: 100%;
+    height: 38px;
+    font-size: 30px;
+    font-weight: 600;
+}
+#reportsDescriptionDiv {
+    max-width: 560px;
+    width: 100%;
+    height: 56px;
+    font-size: 18px;
+    color: #535862;
+    margin-top: 16px;
+}
+#thirdCheckItemsDiv {
+    max-width: 560px;
+    width: 100%;
+    height: 124px;
+    padding-left: 16px;
+    margin-top: 32px;
+    box-sizing: border-box; 
+}
+#firstCheckItemsForReportsDiv {
+    max-width: 544px;
+    height: 28px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+#firstCheckItemsForReportsDiv img {
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;   
+}
+#filterTextDiv {
+    max-width: 504px;
+    width: 100%;
+    height: 28px;
+    display: inline-block;
+    font-size: 18px;
+    color: #535862;
+    vertical-align: middle;
+}
+#filterParagh {
+    display: inline-block;
+    margin: 0;
+    height: 18px;
+    vertical-align: middle;
+}
+#secondCheckItemsForReportsDiv {
+    max-width: 544px;
+    height: 28px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+#secondCheckItemsForReportsDiv img {
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;   
+}
+#saveTextDiv {
+    max-width: 504px;
+    width: 100%;
+    height: 28px;
+    display: inline-block;
+    font-size: 18px;
+    color: #535862;
+    vertical-align: middle;
+}
+#saveParagh {
+    display: inline-block;
+    margin: 0;
+    height: 18px;
+    vertical-align: middle;
+}
+ssssss
+#thirdCheckItemsForReportsDiv {
+    max-width: 544px;
+    height: 28px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+#thirdCheckItemsForReportsDiv img {
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;   
+}
+#connectTextDiv {
+    max-width: 504px;
+    width: 100%;
+    height: 28px;
+    display: inline-block;
+    font-size: 18px;
+    color: #535862;
+    vertical-align: middle;
+}
+#connectParagh {
+    display: inline-block;
+    margin: 0;
+    height: 18px;
+    vertical-align: middle;
+}
+#thirdDashboardImage {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 5px -165px 5px 97px;
+}
